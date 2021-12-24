@@ -1,8 +1,9 @@
-# mobilenet_v2_ssdlite_keras
-A keras version of real-time object detection network: mobilenet_v2_ssdlite
+# 제목 없음
 
-the pretrained weights file in the 'pretrained_weights' folder
+## 헬멧 탐지_mobilenetv2_ssdlite_keras
 
-the model structure in the 'model' folder
+- 헬멧 탐지를 위한 실시간 물체 탐지
 
-the train and inference process in the 'experiments' folder
+# Reference
+
+### Based on the work of  [markshih91](https://github.com/markshih91/mobilenet_v2_ssdlite_keras)
