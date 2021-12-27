@@ -1,5 +1,3 @@
-# 제목 없음
-
 # 헬멧 탐지를 위한 Mobilenetv2
 
 > Yes_Helmet , No_Helmet  이진 분류
