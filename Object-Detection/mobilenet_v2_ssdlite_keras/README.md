@@ -4,7 +4,7 @@
 
 # 절차
 1. Open Image Datasets 다운로드
-2. OID txt를 XML로 변환  [OID_To_XML](https://github.com/AtriSaxena/OIDv4_to_VOC)
+2. OID txt를 XML로 변환  [AtriSaxena](https://github.com/AtriSaxena/OIDv4_to_VOC)
 
  
 # Reference
